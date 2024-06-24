@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "APPnilm8Lac=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Олександр\\Desktop\\DiCk\\базюк\\ic13-pyatak-ole\\студенти\\StudentAccount.Orchestrators\\StudentAccount.Orchestrators.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Олександр\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Олександр\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Олександр\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\Олександр\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\Олександр\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Олександр\\Desktop\\DiCk\\базюк\\ic13-pyatak-ole\\студенти\\StudentAccount.Platform\\StudentAccount.Platform.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Олександр\\Desktop\\DiCk\\базюк\\ic13-pyatak-ole\\студенти\\StudentAccount.Platform\\StudentAccount.Platform.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Олександр\\Desktop\\DiCk\\базюк\\ic13-pyatak-ole\\студенти\\StudentAccount.Model\\StudentAccount.Model.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Олександр\\Desktop\\DiCk\\базюк\\ic13-pyatak-ole\\студенти\\StudentAccount.Model\\StudentAccount.Model.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

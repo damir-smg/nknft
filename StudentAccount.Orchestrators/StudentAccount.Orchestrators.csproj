@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\StudentAccount.Model\StudentAccount.Model.csproj" />
+        <ProjectReference Include="..\StudentAccount.Platform\StudentAccount.Platform.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="AutoMapper" Version="12.0.1" />
+    </ItemGroup>
+
+</Project>
